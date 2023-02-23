@@ -27,3 +27,6 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 * git init - инициализация
 
 * git  merge - слияние веток
+* conflict - при слиянии двух веток может произойти конфликт, его нужно разрешить вручную
+* git  merge - слияние веток
+* git checkout - переход в другую ветку
