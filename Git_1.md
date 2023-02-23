@@ -23,3 +23,6 @@ Git is a distributed version control system that tracks changes in any set of co
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
 ## Семинар 2
+
+* git merge - слияние веток
+* git  init - инициализация
