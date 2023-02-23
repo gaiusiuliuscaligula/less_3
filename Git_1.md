@@ -25,5 +25,5 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 ## Семинар 2
 
 * git init - инициализация
-* conflict - при слиянии двух веток может произойти конфликт, его нужно разрешить вручную
+
 * git  merge - слияние веток
