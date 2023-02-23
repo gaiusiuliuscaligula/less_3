@@ -30,3 +30,6 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 * conflict - при слиянии двух веток может произойти конфликт, его нужно разрешить вручную
 * git  merge - слияние веток
 * git checkout - переход в другую ветку
+
+
+## Семинар 3
