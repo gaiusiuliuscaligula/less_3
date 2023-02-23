@@ -2,7 +2,7 @@
 ## Command
 1. *git status*
 
-    The git status command will show you the different states of files in your working directory and staging area.
+         Команда, вызывающая блок с информацией.
 2. **git add** 
 
            The git add command adds content from the working directory into the staging area (or “index”) for the next commit
