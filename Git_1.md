@@ -33,3 +33,5 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 
 
 ## Семинар 3
+
+### Инструкция по работе с удаленным репозиторием
